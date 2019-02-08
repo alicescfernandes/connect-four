@@ -3,8 +3,8 @@
 ## Projeto final da cadeira de "Matemática Discreta e Programação"
 
 ### TOC
-- Introdução
-- Instalação e utilização
+- [Introdução](#introdução)
+- [Instalação e utilização](#instala%C3%A7%C3%A3outiliza%C3%A7%C3%A3o)
 -  Assets
 
 
