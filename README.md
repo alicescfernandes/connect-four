@@ -31,4 +31,5 @@ Só depois de ter o motor feito, desenvolvi os gráficos e integrei no jogo, aca
 Este trabalho tirou um 16, e para a quantidade de horas que pus em cima disto, acho que foi justo
 
 ## Instalação/Utilização
-Para jogar isto, têm de ter o Python 3.7.0 instalado, juntamente com o pygame. Quado tiverem isso feito, basta só executarem o comando `python quatro_em_linha_modo_grafico.py`
+Para jogar isto, descarreguem [aqui](https://github.com/alicescfernandes/connect-four/releases) este jogo, e instalem Python 3.7.0 juntamente com o pygame. Quando tiverem isso feito, basta só executarem o comando `python quatro_em_linha_modo_grafico.py` na linha de comandos.
+O jogo só usa o rato, e não dá para mudar/parar a musica no jogo.
