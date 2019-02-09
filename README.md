@@ -1,9 +1,9 @@
 
 ![Logo](./assets/logo.png)
-<audio src="https://github.com/alicescfernandes/connect-four/blob/master/assets/music.mp3?raw=true"></audio>
-## Projeto final da cadeira de "Matemática Discreta e Programação"
 
-### TOC
+### Projeto final da cadeira de "Matemática Discreta e Programação"
+
+#### TOC
 - [Introdução](#introdução)
 - [Instalação e utilização](#instala%C3%A7%C3%A3outiliza%C3%A7%C3%A3o)
 -  Assets
