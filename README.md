@@ -1,6 +1,6 @@
 
 ![Logo](./assets/logo.png)
-<audio href="https://github.com/alicescfernandes/connect-four/blob/master/assets/music.mp3?raw=true"></audio>
+<audio src="https://github.com/alicescfernandes/connect-four/blob/master/assets/music.mp3?raw=true"></audio>
 ## Projeto final da cadeira de "Matemática Discreta e Programação"
 
 ### TOC
