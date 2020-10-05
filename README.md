@@ -1,6 +1,6 @@
 
 ![Logo](./assets/logo.png)
-
+![](https://www.google-analytics.com/collect?v=1&t=event&tid=UA-100869248-2&cid=555&ec=github&ea=pageview&el=connect-four&ev=1)
 ### Projeto final da cadeira de "Matemática Discreta e Programação"
 
 #### TOC
